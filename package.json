@@ -1,8 +1,8 @@
 {
-  "name": "sni-xhttp",
+  "name": "my-wheather-app",
   "version": "1.1.0",
   "type": "module",
-  "description": "Serverless XHTTP relay for Xray/V2Ray on Vercel (Node.js runtime, 128MB memory)",
+  "description": "notes-app",
   "private": true,
   "license": "MIT"
 }
